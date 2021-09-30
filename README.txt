@@ -1,3 +1,8 @@
+<<<<<<< HEAD
 
  Assignments
 Second change in css
+=======
+css assignments
+ Assignments
+>>>>>>> css-assignments
